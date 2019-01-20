@@ -9,6 +9,6 @@ def second_challenge
   #code your solution here!
 array = []
   array = []
-  groceries.values[0]
+  groceries.values[0..3]
 
 end
