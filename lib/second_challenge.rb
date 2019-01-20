@@ -9,9 +9,9 @@ def second_challenge
   #code your solution here!
 array = []
   array = []
-  array << groceries[0]
-  array << groceries[1]
-  array << groceries[2]
-  array << groceries[3]
+  array << groceries.values[0]
+  array << groceries.values[1]
+  array << groceries.values[2]
+  array << groceries.values[3]
 
 end
