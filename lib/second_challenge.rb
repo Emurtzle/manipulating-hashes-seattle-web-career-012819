@@ -7,13 +7,6 @@ def second_challenge
   }
 
   #code your solution here!
-array = []
-  array = []
-  array << groceries.values[0]
-  array << groceries.values[1]
-  array << groceries.values[2]
-  array << groceries.values[3]
-
-  array.flatten
+groceries.values.flatten
 
 end
