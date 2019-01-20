@@ -9,7 +9,6 @@ def second_challenge
   #code your solution here!
 array = []
   array = []
-  array << groceries.values
-  array
+  groceries.values
 
 end
