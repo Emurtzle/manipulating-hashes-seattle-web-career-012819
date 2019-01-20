@@ -14,4 +14,6 @@ array = []
   array << groceries.values[2]
   array << groceries.values[3]
 
+  array.flatten
+
 end
